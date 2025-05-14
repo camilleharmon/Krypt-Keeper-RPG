@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 66cf5a220a69c234a8edb2617c36756e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89451
+  packageName: Main menu with Parallax Effect FREE
+  packageVersion: 1.0
+  assetPath: Assets/Main menu with parallax FREE/Scripts/MenuController.cs
+  uploadId: 177355
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainBackgroundParallax: {instanceID: 0}
+  - mainBackground: {instanceID: 0}
+  - menuText: {instanceID: 0}
+  - ArrowR: {instanceID: 0}
+  - ArrowL: {instanceID: 0}
+  - menuBar: {instanceID: 0}
+  - backgroundsController: {instanceID: 0}
+  - Select: {instanceID: 0}
+  - SceneSelect: {instanceID: 0}
+  - exitMenu: {instanceID: 0}
+  - OptionsMenu: {fileID: 170332, guid: 6f40747fa9c2b6b439dfbb5d6b8ed66a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
